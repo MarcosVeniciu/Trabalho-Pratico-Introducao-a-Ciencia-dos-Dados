@@ -1,13 +1,13 @@
 # Trabalho-Pratico-Introducao-a-Ciencia-dos-Dados
 
-##Trabalho Prático de Introdução à Ciência dos Dados, UFV maio de 2022
+## Trabalho Prático de Introdução à Ciência dos Dados, UFV maio de 2022
 
-###Integrantes:
+### Integrantes:
 Leandro <br />
 Marcos Veniciu de sa Barbalho - 3016 <br />
 Maurício Okuyama <br />
 
-###Assunto:
+### Assunto:
 Ocorrências Aeronáuticas na Aviação Civil Brasileira 
 
 ###Link da fonte dos dados:
