@@ -3,7 +3,7 @@
 ## Trabalho Prático de Introdução à Ciência dos Dados, UFV maio de 2022
 
 ### Integrantes:
-Leandro <br />
+Leandro - 3513<br />
 Marcos Veniciu de sa Barbalho - 3016 <br />
 Maurício Okuyama - 4239<br />
 
