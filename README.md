@@ -14,23 +14,23 @@ Ocorrências Aeronáuticas na Aviação Civil Brasileira
 https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
 
 ### Questões
-1.   <br />
-2.   <br /> 
-3.   <br />
-4.   <br />
-5.   <br />
-6.   <br />
-7.   <br />
-8.   <br />
-9.   <br />
-10.   <br />
-11.   <br />
-12.   <br />
-13.   <br />
-14.   <br />
-15.   <br />
-16.   <br />
-17.   <br />
-18.   <br />
-19.   <br />
-20.   <br />
+01. Qual é o tipo de ocorrência mais comum? <br />
+02. Que tipo de ocorrência está mais associado a fatalidades?  <br /> 
+03. O que poderia ser feito para evitar outras ocorrências?  <br />
+04. Existe uma relação entre a fase de operação e fatalidades?  <br />
+05. Existe uma relação entre a fabricante da aeronave e o tipo de ocorrência? <br />
+06. Existe uma relação entre o modelo da aeronave e o tipo de ocorrência?   <br />
+07. Existe uma relação entre o fator contribuinte e o tipo de ocorrência?  <br />
+08. Existe algum componente das aeronaves que está associado com os acidentes?  <br />
+09. Existe alguma região associada com um elevado número de acidentes?  <br />
+10. Quais os acidentes mais frequentes por região do país?   <br />
+11. O horário possui relação com os acidentes?  <br />
+12. Qual a relação entre o tipo de aeronave e a frequência dos acidentes?  <br />
+13. Qual a relação entre tipo de acidente e a fatalidade?  <br />
+14. Qual a frequência de acidentes em relação aos mesese?   <br />
+15. A quantidade de acidentes aumentou o diminuiu ao longo dos anos observados?   <br />
+16. A quantidade de fatalidades aumentou o diminuiu ao longo dos anos observados?  <br />
+17. Qual a porcentagem de acidente que possuem fatalidades?  <br />
+18. Qual a porcentagem de acidentes por operação particular, regular e taxi áereo?  <br />
+19. Qual as fases de operação com maior taxa de acidentes?  <br />
+20. Qual a taxa de acidentes em relação ao ano de fabricação das aeronaves?   <br />
