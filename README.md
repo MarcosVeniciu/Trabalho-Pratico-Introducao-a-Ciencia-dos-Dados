@@ -8,14 +8,17 @@ Marcos Veniciu de sa Barbalho - 3016 <br />
 Maurício Okuyama - 4239<br />
 
 ### Assunto:
-Ocorrências Aeronáuticas na Aviação Civil Brasileira 
+Ocorrências Aeronáuticas na Aviação Civil Brasileira
 
 ### Link da fonte dos dados:
 https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
 
+### Modelo dos dados
+![modelo dos dados](http://sistema.cenipa.aer.mil.br/cenipa/media/opendata/modelo_dados.png)
+
 ### Questões
 01. Qual é o tipo de ocorrência mais comum? <br />
-02. Que tipo de ocorrência está mais associado a fatalidades?  <br /> 
+02. Que tipo de ocorrência está mais associado a fatalidades?  <br />
 03. O que poderia ser feito para evitar outras ocorrências?  <br />
 04. Existe uma relação entre a fase de operação e fatalidades?  <br />
 05. Existe uma relação entre a fabricante da aeronave e o tipo de ocorrência? <br />
