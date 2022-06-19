@@ -14,7 +14,7 @@ Ocorrências Aeronáuticas na Aviação Civil Brasileira
 https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
 
 ### Modelo dos dados
-![modelo dos dados](http://sistema.cenipa.aer.mil.br/cenipa/media/opendata/modelo_dados.png)
+![modelo dos dados](./modelo_dados.png)
 
 ### Questões
 01. Qual é o tipo de ocorrência mais comum? <br />
